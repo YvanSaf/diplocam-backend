@@ -1,0 +1,11 @@
+# Ignorer tous les environnements virtuels
+**/venv/
+**/__pycache__/
+**/*.pyc
+
+# Fichiers système
+.DS_Store
+
+# DB locale (si besoin)
+*.sqlite3
+
